@@ -1,0 +1,97 @@
+.register-form {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    padding: 70px 40px;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 20px;
+    background-color: #414141;
+    border-radius: 30px 0 30px 0;
+}
+
+.dark-register-form {
+    background-color: #949494 !important;
+}
+
+.dark-register-form div,
+.dark-register-form div *,
+.dark-register-form label {
+    background-color: #949494 !important;
+}
+
+.dark-register-form button {
+    background-color: #2DCEA2 !important;
+}
+
+.register-title {
+    font-family: 'iranyekan-Bold';
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.register_icon {
+    display: block;
+    font-size: 50px;
+    color: #2DCEA2;
+}
+
+.register-form input,
+.register-form textarea {
+    padding: 8px;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #2DCEA2;
+    font-family: 'DanaFaNum-Bold';
+    color: #ffffff;
+}
+
+.register-form label {
+    padding: 8px;
+    cursor: pointer;
+    font-family: 'iranyekan-Regular';
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.register-form .form-footer {
+    grid-column-start: 2;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.form-footer button {
+    font-family: 'iranyekan-Regular';
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color: #2DCEA2;
+    color: #ffffff;
+    margin: 0 10px;
+    padding: 10px;
+}
+
+.register_message {
+    font-family: 'iranyekan-Bold';
+    font-size: 16px;
+    color: #ff0000;
+}
+
+.register a {
+    text-decoration: none;
+    font-family: 'iranyekan-Bold';
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.register span {
+    margin-left: 10px;
+}

@@ -1,0 +1,32 @@
+.footer {
+    background: rgb(255,255,255);
+    background: -moz-linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(209,209,209,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(209,209,209,1) 100%);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(209,209,209,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#d1d1d1",GradientType=1);
+    border-top: 2px solid #2DCEA2;
+}
+
+.footer_contents {
+    padding: 30px 0;
+}
+
+.about {
+    font-family: 'iranyekan-Regular';
+    font-size: 16px;
+    text-align: justify;
+    color: #474747;
+}
+
+.logo_img {
+    float: left;
+}
+
+.copyright {
+    font-family: 'iranyekan-Bold';
+    font-size: 14px;
+    display: block;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}

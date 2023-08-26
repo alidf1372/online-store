@@ -1,0 +1,28 @@
+.possibility_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.possibility_card span:first-child {
+    width: 60px;
+    height: 60px;
+    background: #2DCEA2;
+    display: block;
+    margin: auto;
+    border-radius: 100% 50% 50% 100%/75% 69% 69% 75%;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.possibility_card span:last-child {
+    font-family: 'iranyekan-Bold';
+    font-size: 14px;
+    color: #474747;
+    margin-top: 10px;
+}

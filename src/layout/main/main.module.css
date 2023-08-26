@@ -1,0 +1,103 @@
+.card_contents {
+    border: 1px solid #efefef;
+}
+
+.card_contents:hover {
+    box-shadow: 0 0 12px 0 #00000045;
+}
+
+.product_contents {
+    padding: 10px;
+}
+
+.product_contents a:not(del),
+.product_contents a *:not(del) {
+    text-decoration: none;
+}
+
+.product_content {
+    position: relative;
+    font-family: 'iranyekan-Regular';
+    font-size: 15px;
+    color: #414141;
+}
+
+.discount_product {
+    position: absolute;
+    top: -50px;
+    left: 20px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #ff0000;
+    border-radius: 50%;
+    color: #ff0000;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Arial Black";
+    font-weight: bold;
+    background-color: #ff000038;
+}
+
+.product_content h4 {
+    font-family: 'iranyekan-Bold';
+    font-size: 20px;
+    line-height: 32px;
+    color: #414141;
+}
+
+.pagination {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    font-family: 'iranyekan-Bold';
+    line-height: 20px;
+}
+
+.pagination button.active {
+    background-color: #2DCEA2;
+    color: #fff;
+    border: 1px solid #2DCEA2;
+}
+
+.error_message {
+    font-family: 'iranyekan-Bold';
+    font-size: 20px;
+    color: #474747;
+}
+
+/* --------------- Responsive ---------------- */
+
+@media only screen and (max-width: 1200px) {
+    .product_contents img {
+        width: 194px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .product_contents img {
+        width: 134px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .product_contents img {
+        width: 224px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .product_contents img {
+        width: 100%;
+    }
+}

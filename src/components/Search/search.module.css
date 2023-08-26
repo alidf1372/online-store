@@ -1,0 +1,21 @@
+
+.search_btn {
+    position: absolute;
+    left: 13px;
+    top: 8px;
+    color: #414141;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+.search-input {
+    border: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 22px;
+    font-family: iranyekan-Regular;
+    font-size: 12px;
+    color: #414141;
+    outline: none;
+}

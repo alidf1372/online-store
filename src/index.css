@@ -1,13 +1,55 @@
+@import '~bootstrap/dist/css/bootstrap.rtl.min.css';
+
+@font-face {
+  font-family: "DanaFaNum-Bold";
+  src: url("../public/assets/fonts/DanaFaNum-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DanaFaNum-Regular";
+  src: url("../public/assets/fonts/DanaFaNum-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "iranyekan-Light";
+  src: url("../public/assets/fonts/iranyekanweblightfanum.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "iranyekan-Regular";
+  src: url("../public/assets/fonts/iranyekanwebregularfanum.woff") format("woff");
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "iranyekan-Bold";
+  src: url("../public/assets/fonts/iranyekanwebboldfanum.woff") format("woff");
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: "DanaFaNum-Regular", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  direction: rtl;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.container-fluid {
+  padding: 0 !important;
 }

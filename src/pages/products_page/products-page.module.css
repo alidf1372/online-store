@@ -1,0 +1,135 @@
+.product_info_content {
+    font-family: 'iranyekan-Regular';
+    font-size: 16px;
+    color: #474747;
+}
+
+.product_title {
+    font-family: 'iranyekan-Bold';
+    font-size: 40px;
+}
+
+.product_info_content div {
+    padding: 10px 0;
+}
+
+.discount_product {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #ff0000;
+    border-radius: 50%;
+    color: #ff0000;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Arial Black";
+    font-weight: bold;
+    background-color: #ff000038;
+}
+
+.product_sidebar {
+    position: relative;
+    border-right: 1px solid #9c9c9c;
+}
+
+.product_info_price {
+    font-family: 'iranyekan-Regular';
+    font-size: 16px;
+    color: #474747;
+    position: sticky;
+    top: 0;
+}
+
+.product_info_price div {
+    padding: 20px 0;
+}
+
+.add_card {
+    background-color: #474747;
+    color: #ffffff;
+    font-family: 'iranyekan-Bold';
+    font-size: 14px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    display: block;
+    margin: 10px auto;
+}
+
+.add_card:hover {
+    background-color: #2DCEA2;
+    box-shadow: 0 0 10px 0 #2DCEA2;
+    transition: 100ms linear;
+}
+
+.product_info_price del {
+    color: #ff0000;
+}
+
+.product_info_price div div {
+    font-family: 'iranyekan-Bold';
+    font-size: 18px;
+}
+
+.order_count {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.order_count button {
+    border: none;
+    outline: none;
+    background-color: #2DCEA2;
+    color: #ffffff;
+    width: 40px;
+    height: 40px;
+}
+
+.order_count span {
+    width: 50px;
+    font-family: 'iranyekan-Bold';
+    font-size: 16px;
+    line-height: 40px;
+    color: #474747;
+    text-align: center;
+}
+
+.unavailable {
+    font-size: 18px;
+    font-family: 'iranyekan-Bold';
+    color: #ff0000;
+}
+
+.buy_message {
+    font-family: 'iranyekan-Bold';
+    font-size: 14px;
+    color: #ff0000;
+}
+
+.product_stock {
+    font-size: 14px;
+    font-family: 'iranyekan-Light';
+    color: #ff0000;
+}
+
+@media only screen and (max-width: 1200px) {
+    .product_img {
+        width: 336px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .product_img {
+        width: 246px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .product_sidebar {
+        border-right: none;
+    }
+}

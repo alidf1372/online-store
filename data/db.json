@@ -1,0 +1,1721 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "ali123",
+      "full-name": "علی دوزنده فردوس",
+      "email": "alidf1372@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "17/10/1372"
+    },
+    {
+      "id": 2,
+      "userName": "amir75",
+      "full-name": "امیر امیری",
+      "email": "amir@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 9087654321,
+      "phone-number": "09129876543",
+      "id-number": "0987654321",
+      "birthday": "11/04/1375"
+    },
+    {
+      "id": 3,
+      "userName": "mina",
+      "full-name": "مینا مینایی",
+      "email": "mina@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "04/01/1370"
+    },
+    {
+      "id": 4,
+      "userName": "mari",
+      "full-name": "مریم ایمانی",
+      "email": "mari@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "05/10/1364"
+    },
+    {
+      "id": 5,
+      "userName": "rezaaaa",
+      "full-name": "رضا کرمی",
+      "email": "reza@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "17/12/1361"
+    },
+    {
+      "id": 6,
+      "userName": "zahra",
+      "full-name": "زهزا کشاورز",
+      "email": "zahra@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "17/10/1372"
+    },
+    {
+      "id": 7,
+      "userName": "mh3n",
+      "full-name": "محسن اطلاعی",
+      "email": "m3n@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "17/10/1372"
+    },
+    {
+      "id": 8,
+      "userName": "kamran",
+      "full-name": "کامران شهری",
+      "email": "kami@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "17/10/1372"
+    },
+    {
+      "id": 9,
+      "userName": "katayoon",
+      "full-name": "کتایون عظیمی",
+      "email": "kati@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "17/10/1372"
+    },
+    {
+      "id": 10,
+      "userName": "ehsan",
+      "full-name": "احسان امیدیان",
+      "email": "ehsan@gmail.com",
+      "password": "123456",
+      "address": "تهران - پرند - فاز چهار - مجتمع گل نرگس - بلوک B - واحد 13",
+      "postal-code": 1234567890,
+      "phone-number": "09123456789",
+      "id-number": "0123456789",
+      "birthday": "17/10/1372"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "مردانه",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "پیراهن"
+        },
+        {
+          "id": 102,
+          "name": "شلوار"
+        },
+        {
+          "id": 103,
+          "name": "کت"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "زنانه",
+      "subcategories": [
+        {
+          "id": 201,
+          "name": "مانتو"
+        },
+        {
+          "id": 202,
+          "name": "شلوار"
+        },
+        {
+          "id": 203,
+          "name": "کت"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "بچگانه",
+      "subcategories": [
+        {
+          "id": 301,
+          "name": "لباس نوزاد"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین بلند مردانه مدل 101",
+      "brand-id": 3,
+      "size": "XL",
+      "color": "آبی تیره - سبز - مشکی",
+      "price": 446000,
+      "discount": 0,
+      "availability": true,
+      "stock": 5,
+      "covers": [
+        {
+          "1": "/assets/images/model-101.jpg",
+          "2": "/assets/images/model-1011.jpg"
+        }
+      ],
+      "description": "روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین بلند مردانه مدل 102",
+      "brand-id": 3,
+      "size": "XL",
+      "color": "سفید",
+      "price": 450000,
+      "discount": 5,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-102.jpg",
+          "2": "/assets/images/model-1022.jpg"
+        }
+      ],
+      "description": "طرح ساده، مناسب استفاده روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین بلند مردانه مدل 103",
+      "brand-id": 3,
+      "size": "XL",
+      "color": "کرم",
+      "price": 446000,
+      "discount": 5,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-103.jpg",
+          "2": "/assets/images/model-1033.jpg"
+        }
+      ],
+      "description": "طرح ساده، مناسب استفاده روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین بلند مردانه مدل 104",
+      "brand-id": 3,
+      "size": "L",
+      "color": "سرمه ای",
+      "price": 446000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-104.jpg",
+          "2": "/assets/images/model-1044.jpg"
+        }
+      ],
+      "description": "طرح ساده، مناسب استفاده روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین کوتاه مردانه مدل 105",
+      "brand-id": 3,
+      "size": "XL",
+      "color": "راه دار سفید شمکی",
+      "price": 435000,
+      "discount": 0,
+      "availability": true,
+      "stock": 15,
+      "covers": [
+        {
+          "1": "/assets/images/model-105.jpg",
+          "2": "/assets/images/model-1055.jpg"
+        }
+      ],
+      "description": "طرح دار، مناسب استفاده روزمره، مهمانی"
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین کوتاه مردانه مدل 106",
+      "brand-id": 3,
+      "size": "XL",
+      "color": "سفید",
+      "price": 440000,
+      "discount": 10,
+      "availability": true,
+      "stock": 25,
+      "covers": [
+        {
+          "1": "/assets/images/model-106.jpg",
+          "2": "/assets/images/model-1066.jpg"
+        }
+      ],
+      "description": "طرح ساده، مناسب استفاده روزمره، مهمانی"
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین کوتاه مردانه مدل 107",
+      "brand-id": 2,
+      "size": "M",
+      "color": "طرح دار",
+      "price": 450000,
+      "discount": 5,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-107.jpg",
+          "2": "/assets/images/model-1077.jpg"
+        }
+      ],
+      "description": "طرح دار، مناسب استفاده روزمره، مهمانی"
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین بلند مردانه مدل 108",
+      "brand-id": 1,
+      "size": "XL",
+      "color": "مشکی",
+      "price": 460000,
+      "discount": 5,
+      "availability": true,
+      "stock": 50,
+      "covers": [
+        {
+          "1": "/assets/images/model-108.jpg"
+        }
+      ],
+      "description": "طرح دار، مناسب استفاده روزمره"
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین موتاه مردانه مدل 109",
+      "brand-id": 3,
+      "size": "M",
+      "color": "مشکی",
+      "price": 380000,
+      "discount": 5,
+      "availability": true,
+      "stock": 50,
+      "covers": [
+        {
+          "1": "/assets/images/model-109.jpg",
+          "2": "/assets/images/model-1099.jpg"
+        }
+      ],
+      "description": "طرح دار، مناسب استفاده روزمره"
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین بلند مردانه مدل 110",
+      "brand-id": 5,
+      "size": "XL",
+      "color": "مشکی",
+      "price": 320000,
+      "discount": 0,
+      "availability": true,
+      "stock": 50,
+      "covers": [
+        {
+          "1": "/assets/images/model-110.jpg",
+          "2": "/assets/images/model-1101.jpg"
+        }
+      ],
+      "description": "طرح دار، مناسب استفاده روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "title": "پیراهن آستین کوتاه مردانه مدل 111",
+      "brand-id": 4,
+      "size": "XL",
+      "color": "طرح دار",
+      "price": 375000,
+      "discount": 20,
+      "availability": true,
+      "stock": 50,
+      "covers": [
+        {
+          "1": "/assets/images/model-111.jpg",
+          "2": "/assets/images/model-1111.jpg"
+        }
+      ],
+      "description": "طرح دار، مناسب استفاده روزمره، مهمانی"
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه مدل 201",
+      "brand-id": 5,
+      "size": 44,
+      "color": "قهوه ای",
+      "price": 217000,
+      "discount": 5,
+      "availability": true,
+      "stock": 5,
+      "covers": [
+        {
+          "1": "/assets/images/model-201.jpg",
+          "2": "/assets/images/model-2011.jpg"
+        }
+      ],
+      "description": "راسته، کتان"
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه کتان کاغذی مدل 202",
+      "brand-id": 0,
+      "size": 44,
+      "color": "طوسی",
+      "price": 245000,
+      "discount": 5,
+      "availability": true,
+      "stock": 15,
+      "covers": [
+        {
+          "1": "/assets/images/model-202.jpg",
+          "2": "/assets/images/model-2022.jpg"
+        }
+      ],
+      "description": "راسته، کتان"
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه کتان لرد آرچر مدل 203",
+      "brand-id": 0,
+      "size": 48,
+      "color": "مشکی",
+      "price": 258000,
+      "discount": 0,
+      "availability": true,
+      "stock": 25,
+      "covers": [
+        {
+          "1": "/assets/images/model-203.jpg",
+          "2": "/assets/images/model-2033.jpg"
+        }
+      ],
+      "description": "راسته، کتان"
+    },
+    {
+      "id": 15,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه شش جیب مدل 204",
+      "brand-id": 0,
+      "size": 44,
+      "color": "مشکی",
+      "price": 275000,
+      "discount": 15,
+      "availability": true,
+      "stock": 35,
+      "covers": [
+        {
+          "1": "/assets/images/model-204.jpg",
+          "2": "/assets/images/model-2044.jpg"
+        }
+      ],
+      "description": "شش جیب"
+    },
+    {
+      "id": 16,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه مدل 205",
+      "brand-id": 0,
+      "size": 50,
+      "color": "طوسی",
+      "price": 236000,
+      "discount": 0,
+      "availability": true,
+      "stock": 12,
+      "covers": [
+        {
+          "1": "/assets/images/model-205.jpg"
+        }
+      ],
+      "description": "ساده"
+    },
+    {
+      "id": 17,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه فاستونی مدل 206",
+      "brand-id": 0,
+      "size": 42,
+      "color": "مشکی",
+      "price": 250000,
+      "discount": 12,
+      "availability": true,
+      "stock": 50,
+      "covers": [
+        {
+          "1": "/assets/images/model-206.jpg",
+          "2": "/assets/images/model-2066.jpg"
+        }
+      ],
+      "description": "راسته، کتان"
+    },
+    {
+      "id": 18,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه شش جیب مدل 207",
+      "brand-id": 0,
+      "size": 44,
+      "color": "کرم",
+      "price": 260000,
+      "discount": 0,
+      "availability": true,
+      "stock": 20,
+      "covers": [
+        {
+          "1": "/assets/images/model-207.jpg"
+        }
+      ],
+      "description": "شش جیب"
+    },
+    {
+      "id": 19,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه شش جیب مدل 208",
+      "brand-id": 0,
+      "size": 52,
+      "color": "طرح دار",
+      "price": 270000,
+      "discount": 5,
+      "availability": true,
+      "stock": 8,
+      "covers": [
+        {
+          "1": "/assets/images/model-208.jpg",
+          "2": "/assets/images/model-2088.jpg"
+        }
+      ],
+      "description": "شش جیب"
+    },
+    {
+      "id": 20,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه کتان لدر آرچر مدل 209",
+      "brand-id": 0,
+      "size": 44,
+      "color": "طوسی",
+      "price": 233000,
+      "discount": 5,
+      "availability": true,
+      "stock": 5,
+      "covers": [
+        {
+          "1": "/assets/images/model-209.jpg",
+          "2": "/assets/images/model-2099.jpg"
+        }
+      ],
+      "description": "کتان لرد آرچر"
+    },
+    {
+      "id": 21,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه مدل 210",
+      "brand-id": 0,
+      "size": 48,
+      "color": "طوسی",
+      "price": 217000,
+      "discount": 5,
+      "availability": true,
+      "stock": 5,
+      "covers": [
+        {
+          "1": "/assets/images/model-210.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 22,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه صدرا مدل 211",
+      "brand-id": 0,
+      "size": 44,
+      "color": "مشکی",
+      "price": 257000,
+      "discount": 0,
+      "availability": true,
+      "stock": 5,
+      "covers": [
+        {
+          "1": "/assets/images/model-211.jpg",
+          "2": "/assets/images/model-2111.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 23,
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "title": "شلوار مردانه شش جیب مدل 212",
+      "brand-id": 0,
+      "size": 50,
+      "color": "کرم",
+      "price": 238000,
+      "discount": 5,
+      "availability": true,
+      "stock": 0,
+      "covers": [
+        {
+          "1": "/assets/images/model-212.jpg",
+          "2": "/assets/images/model-2122.jpg"
+        }
+      ],
+      "description": "شش جیب"
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 301",
+      "brand-id": 1,
+      "size": 52,
+      "color": "زرشکی",
+      "price": 1750000,
+      "discount": 0,
+      "availability": true,
+      "stock": 25,
+      "covers": [
+        {
+          "1": "/assets/images/model-301.jpg",
+          "2": "/assets/images/model-3011.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 25,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 302",
+      "brand-id": 5,
+      "size": 52,
+      "color": "قهوه ای",
+      "price": 3550000,
+      "discount": 0,
+      "availability": true,
+      "stock": 25,
+      "covers": [
+        {
+          "1": "/assets/images/model-302.jpg",
+          "2": "/assets/images/model-3022.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 26,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 303",
+      "brand-id": 1,
+      "size": 52,
+      "color": "مشکی",
+      "price": 2200000,
+      "discount": 10,
+      "availability": true,
+      "stock": 25,
+      "covers": [
+        {
+          "1": "/assets/images/model-303.jpg",
+          "2": "/assets/images/model-3033.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 27,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 304",
+      "brand-id": 1,
+      "size": 48,
+      "color": "طرح دار",
+      "price": 3350000,
+      "discount": 5,
+      "availability": true,
+      "stock": 20,
+      "covers": [
+        {
+          "1": "/assets/images/model-304.jpg",
+          "2": "/assets/images/model-3044.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 28,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 305",
+      "brand-id": 1,
+      "size": 52,
+      "color": "سرمه ای",
+      "price": 1550000,
+      "discount": 20,
+      "availability": true,
+      "stock": 13,
+      "covers": [
+        {
+          "1": "/assets/images/model-305.jpg",
+          "2": "/assets/images/model-3055.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 29,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 306",
+      "brand-id": 5,
+      "size": 48,
+      "color": "طوسی",
+      "price": 3150000,
+      "discount": 7,
+      "availability": true,
+      "stock": 25,
+      "covers": [
+        {
+          "1": "/assets/images/model-306.jpg",
+          "2": "/assets/images/model-3066.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 30,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 307",
+      "brand-id": 4,
+      "size": 52,
+      "color": "آبی",
+      "price": 2050000,
+      "discount": 0,
+      "availability": true,
+      "stock": 25,
+      "covers": [
+        {
+          "1": "/assets/images/model-307.jpg",
+          "2": "/assets/images/model-3077.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 31,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 308",
+      "brand-id": 5,
+      "size": 48,
+      "color": "کرم",
+      "price": 1600000,
+      "discount": 20,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-308.jpg",
+          "2": "/assets/images/model-3088.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 32,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 309",
+      "brand-id": 5,
+      "size": 48,
+      "color": "طرح دار",
+      "price": 1480000,
+      "discount": 15,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-309.jpg",
+          "2": "/assets/images/model-3099.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 33,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 310",
+      "brand-id": 2,
+      "size": 50,
+      "color": "کرم",
+      "price": 2580000,
+      "discount": 5,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-310.jpg",
+          "2": "/assets/images/model-3101.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 34,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 311",
+      "brand-id": 2,
+      "size": 52,
+      "color": "آبی",
+      "price": 2600000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-311.jpg",
+          "2": "/assets/images/model-3111.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 35,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 312",
+      "brand-id": 1,
+      "size": 48,
+      "color": "مشکی",
+      "price": 3500000,
+      "discount": 0,
+      "availability": true,
+      "stock": 50,
+      "covers": [
+        {
+          "1": "/assets/images/model-312.jpg",
+          "2": "/assets/images/model-3122.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 36,
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "title": "کت تک مردانه مدل 313",
+      "brand-id": 1,
+      "size": 52,
+      "color": "مشکی",
+      "price": 3700000,
+      "discount": 0,
+      "availability": true,
+      "stock": 52,
+      "covers": [
+        {
+          "1": "/assets/images/model-313.jpg",
+          "2": "/assets/images/model-3133.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، اداری و رسمی، مهمانی"
+    },
+    {
+      "id": 37,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 401",
+      "brand-id": 0,
+      "size": 38,
+      "color": "طرح دار",
+      "price": 728000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-401.jpg",
+          "2": "/assets/images/model-4011.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 38,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 402",
+      "brand-id": 0,
+      "size": 42,
+      "color": "طرح دار",
+      "price": 475000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-402.jpg",
+          "2": "/assets/images/model-4022.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 39,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 403",
+      "brand-id": 0,
+      "size": 38,
+      "color": "طرح دار",
+      "price": 475000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-403.jpg",
+          "2": "/assets/images/model-4033.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 40,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 404",
+      "brand-id": 0,
+      "size": 38,
+      "color": "طرح دار",
+      "price": 623000,
+      "discount": 5,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-404.jpg",
+          "2": "/assets/images/model-4044.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 41,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 405",
+      "brand-id": 0,
+      "size": 42,
+      "color": "مشکی",
+      "price": 680000,
+      "discount": 10,
+      "availability": true,
+      "stock": 28,
+      "covers": [
+        {
+          "1": "/assets/images/model-405.jpg",
+          "2": "/assets/images/model-4055.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 42,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 406",
+      "brand-id": 0,
+      "size": 42,
+      "color": "طرح دار",
+      "price": 450000,
+      "discount": 5,
+      "availability": true,
+      "stock": 50,
+      "covers": [
+        {
+          "1": "/assets/images/model-406.jpg",
+          "2": "/assets/images/model-4066.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 43,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 407",
+      "brand-id": 0,
+      "size": 44,
+      "color": "طرح دار",
+      "price": 450000,
+      "discount": 0,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-407.jpg",
+          "2": "/assets/images/model-4077.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 44,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 408",
+      "brand-id": 0,
+      "size": 38,
+      "color": "مشکی",
+      "price": 540000,
+      "discount": 0,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-408.jpg",
+          "2": "/assets/images/model-4088.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 45,
+      "categoryId": 2,
+      "subcategoryId": 201,
+      "title": "مانتو زنانه مدل 409",
+      "brand-id": 0,
+      "size": 42,
+      "color": "مشکی",
+      "price": 670000,
+      "discount": 0,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-409.jpg",
+          "2": "/assets/images/model-4099.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 46,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 501",
+      "brand-id": 0,
+      "size": 44,
+      "color": "مشکی",
+      "price": 380000,
+      "discount": 20,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-501.jpg",
+          "2": "/assets/images/model-5011.jpg"
+        }
+      ],
+      "description": "روزمره"
+    },
+    {
+      "id": 47,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 502",
+      "brand-id": 0,
+      "size": 44,
+      "color": "آبی",
+      "price": 380000,
+      "discount": 0,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-502.jpg",
+          "2": "/assets/images/model-5022.jpg"
+        }
+      ],
+      "description": "روزمره"
+    },
+    {
+      "id": 48,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 503",
+      "brand-id": 0,
+      "size": 42,
+      "color": "مشکی",
+      "price": 450000,
+      "discount": 5,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-503.jpg",
+          "2": "/assets/images/model-5033.jpg"
+        }
+      ],
+      "description": "اسپرت، مهمانی، روزمره"
+    },
+    {
+      "id": 49,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 504",
+      "brand-id": 0,
+      "size": 42,
+      "color": "سفید",
+      "price": 450000,
+      "discount": 5,
+      "availability": true,
+      "stock": 2,
+      "covers": [
+        {
+          "1": "/assets/images/model-504.jpg",
+          "2": "/assets/images/model-5044.jpg"
+        }
+      ],
+      "description": "اسپرت، مهمانی، روزمره"
+    },
+    {
+      "id": 50,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 505",
+      "brand-id": 0,
+      "size": 44,
+      "color": "مشکی",
+      "price": 420000,
+      "discount": 0,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-505.jpg",
+          "2": "/assets/images/model-5055.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 51,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 506",
+      "brand-id": 0,
+      "size": 42,
+      "color": "مشکی",
+      "price": 380000,
+      "discount": 0,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-506.jpg",
+          "2": "/assets/images/model-5066.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 52,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه زیپدار مدل 507",
+      "brand-id": 0,
+      "size": 42,
+      "color": "مشکی",
+      "price": 3750000,
+      "discount": 10,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-507.jpg",
+          "2": "/assets/images/model-5077.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 53,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 508",
+      "brand-id": 0,
+      "size": 42,
+      "color": "مشکی",
+      "price": 3510000,
+      "discount": 5,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-508.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 54,
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "title": "شلوار زنانه مدل 509",
+      "brand-id": 0,
+      "size": 42,
+      "color": "قهوه ای",
+      "price": 295000,
+      "discount": 10,
+      "availability": true,
+      "stock": 23,
+      "covers": [
+        {
+          "1": "/assets/images/model-509.jpg",
+          "2": "/assets/images/model-5099.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 55,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 601",
+      "brand-id": 2,
+      "size": 42,
+      "color": "مشکی",
+      "price": 2550000,
+      "discount": 10,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-601.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 56,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 602",
+      "brand-id": 4,
+      "size": 38,
+      "color": "طرح دار",
+      "price": 1520000,
+      "discount": 15,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-602.jpg",
+          "2": "/assets/images/model-6022.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 57,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 603",
+      "brand-id": 4,
+      "size": 42,
+      "color": "آبی",
+      "price": 540000,
+      "discount": 10,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-603.jpg",
+          "2": "/assets/images/model-6033.jpg"
+        }
+      ],
+      "description": "اسپرت، روزمره، مهمانی"
+    },
+    {
+      "id": 58,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 604",
+      "brand-id": 2,
+      "size": 38,
+      "color": "طرح دار",
+      "price": 1520000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-604.jpg",
+          "2": "/assets/images/model-6044.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 59,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 605",
+      "brand-id": 2,
+      "size": 44,
+      "color": "زرد",
+      "price": 1270000,
+      "discount": 5,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-605.jpg",
+          "2": "/assets/images/model-6055.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 60,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 606",
+      "brand-id": 1,
+      "size": 42,
+      "color": "آبی",
+      "price": 540000,
+      "discount": 12,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-606.jpg",
+          "2": "/assets/images/model-6066.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 61,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 607",
+      "brand-id": 1,
+      "size": 38,
+      "color": "طرح دار",
+      "price": 1700000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-607.jpg",
+          "2": "/assets/images/model-6077.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 62,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 608",
+      "brand-id": 2,
+      "size": 42,
+      "color": "طرح دار",
+      "price": 1050000,
+      "discount": 10,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-608.jpg",
+          "2": "/assets/images/model-6088.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 63,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 609",
+      "brand-id": 3,
+      "size": 38,
+      "color": "طرح دار",
+      "price": 1520000,
+      "discount": 0,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-609.jpg",
+          "2": "/assets/images/model-6099.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 64,
+      "categoryId": 2,
+      "subcategoryId": 203,
+      "title": "کت زنانه مدل 610",
+      "brand-id": 3,
+      "size": 44,
+      "color": "کرم",
+      "price": 1270000,
+      "discount": 5,
+      "availability": true,
+      "stock": 10,
+      "covers": [
+        {
+          "1": "/assets/images/model-610.jpg",
+          "2": "/assets/images/model-6101.jpg"
+        }
+      ],
+      "description": "روزمره، مهمانی"
+    },
+    {
+      "id": 65,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست 5 تایی نوزاد مدل 701",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 84000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-701.jpg",
+          "2": "/assets/images/model-7011.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 66,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست نوزاد مدل 702",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 75000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-702.jpg",
+          "2": "/assets/images/model-7022.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 67,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست 5 تایی نوزاد مدل 703",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 84000,
+      "discount": 5,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-703.jpg",
+          "2": "/assets/images/model-7033.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 68,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست نوزاد مدل 704",
+      "brand-id": 0,
+      "size": "5 تا 8 ماه",
+      "color": "طرح دار",
+      "price": 60000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-704.jpg",
+          "2": "/assets/images/model-7044.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 69,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست 5 تایی نوزاد مدل 705",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 81000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-705.jpg",
+          "2": "/assets/images/model-7055.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 70,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست 3 تایی نوزاد مدل 707",
+      "brand-id": 0,
+      "size": "3 تا 5 ماه",
+      "color": "طرح دار",
+      "price": 72000,
+      "discount": 5,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-707.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 71,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست 5 تایی نوزاد مدل 708",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 84000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-708.jpg",
+          "2": "/assets/images/model-7088.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 72,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست نوزاد مدل 709",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 60000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-709.jpg",
+          "2": "/assets/images/model-7099.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 73,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست نوزاد مدل 710",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 60000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-710.jpg",
+          "2": "/assets/images/model-7101.jpg"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 74,
+      "categoryId": 3,
+      "subcategoryId": 301,
+      "title": "ست نوزاد مدل 711",
+      "brand-id": 0,
+      "size": "9 تا 12 ماه",
+      "color": "طرح دار",
+      "price": 60000,
+      "discount": 0,
+      "availability": true,
+      "stock": 14,
+      "covers": [
+        {
+          "1": "/assets/images/model-711.jpg",
+          "2": "/assets/images/model-7111.jpg"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "title": "باینت"
+    },
+    {
+      "id": 2,
+      "title": "زی سا"
+    },
+    {
+      "id": 3,
+      "title": "پولو"
+    },
+    {
+      "id": 4,
+      "title": "پاتن جامه"
+    },
+    {
+      "id": 5,
+      "title": "یو اس پولو"
+    }
+  ],
+  "cart-products": [
+    {
+      "userId": 1,
+      "products": [
+        {
+          "productId": 43,
+          "quantity": 3,
+          "timestamp": "2023-08-22T09:54:42.988Z"
+        },
+        {
+          "productId": 23,
+          "quantity": 2,
+          "timestamp": "2023-08-11T10:00:00Z"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "purchased-products": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        {
+          "productId": 23,
+          "quantity": 2,
+          "timestamp": "2023-08-11T10:00:00Z"
+        },
+        {
+          "productId": 10,
+          "quantity": 1,
+          "timestamp": "2023-08-11T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "products": [
+        {
+          "productId": 28,
+          "quantity": 1,
+          "timestamp": "2023-08-11T10:00:00Z"
+        },
+        {
+          "productId": 56,
+          "quantity": 3,
+          "timestamp": "2023-08-11T10:00:00Z"
+        }
+      ]
+    }
+  ]
+}
