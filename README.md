@@ -2,10 +2,9 @@
 
 **Implemented features include:**
 
-1. Utilization of PWA (Progressive Web App) capabilities.
-2. Implementation of Redux Toolkit for state management.
-3. Thunk Middleware in Redux Toolkit.
-4. Implementation of the 'moment' package for managing the Persian (Solar Hijri) date.
-5. Incorporation of the 'swiper' package for creating sliders.
-6. Integration of json server to create mock APIs.
-7. Responsiveness achieved using Bootstrap.
+1. Implementation of Redux Toolkit for state management.
+2. Thunk Middleware in Redux Toolkit.
+3. Implementation of the 'moment' package for managing the Persian (Solar Hijri) date.
+4. Incorporation of the 'swiper' package for creating sliders.
+5. Integration of json server to create mock APIs.
+6. Responsiveness achieved using Bootstrap.
